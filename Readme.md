@@ -4,8 +4,10 @@ Open the project in IntelliJ or suitable IDE (Note: Can run the project using co
 Install plugins if any is required/prompted.
 
 ####Test Scenarios
-
-
+There are 3 scenarios for three file types, with below expected results
+1) CSV - Pass - Valid vehicle detail present
+2) XLS - Fail - No vehice details present
+3) XLSX - Fail - Asssertion for Vehicle color
 
 #### Selenium Automation Test Framework
 A Cucumber based test project using Selenium page object model and PageFactory
