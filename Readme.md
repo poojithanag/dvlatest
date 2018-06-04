@@ -6,7 +6,7 @@ Install plugins if any is required/prompted.
 #Setup (Very Important):
 Running the test on Windows machine need geckodriver.exe and chromedriver.exe.
 Since above files are .exe files, cannot commit them in github.
-Please download the files from the email and place them in 'dvlatest\drivers' folder.
+Please download the files from internet and place them in 'dvlatest\drivers' folder.
 ####Test Scenarios
 There are 3 scenarios for three file types, with below expected results
 1) CSV - Pass - Valid vehicle detail present
